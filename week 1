@@ -1,0 +1,28 @@
+# The Ultimate guide to SOC 2 Compliance
+
+SOC 2 compliance is an increasingly common framework and applies to many businesses today.
+Specifically, SOC 2 applies to any service provider that stores customer data in the cloud.
+It is quite relevant to SaaS businesses, but also to many others who store their customers’ data in this way.
+SOC 2 isn't a set of hard and fast rules. Rather, it is a framework that sends a strong signal that an organization
+prioritizes key attributes: security, availability, processing integrity, confidentiality, and privacy.
+Today, SOC 1 reports are centered around controls impacting financial reports, similar the original SAS 70. SOC 2 reports, on the other hand, are written on audits against the Trust Services Criteria (TSC) standard.
+SOC audits are organized around five "Trust Principles."
+
+The Trust Principles are:
+
+‍Security
+The foundational security principle, common to all audits.
+
+‍Confidentiality
+Protection from unauthorized disclosure of sensitive data.
+
+‍Availability
+Protection that systems or data will be available as agreed or required.
+
+‍Integrity
+Protection that systems or data are not changed in an unauthorized manner.
+
+‍Privacy
+The use, collection, retention, disclosure, and disposal of personal information is protected.
+
+The SOC 2 reporting standard is defined by the AICPA. All SOC 2 audits are signed by licensed CPAs . To achieve SOC 2 compliance, most companies spend anywhere from six months to a year on focused preparation. This includes identifying which systems are in scope for the audit, developing policies and procedures, and implementing new security controls to reduce risks.
