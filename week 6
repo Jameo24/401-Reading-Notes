@@ -1,0 +1,26 @@
+# Applying The CIA Triad to your Enterprise File Transfer
+# What are MD5, SHA-1 and SHA-256 Hashes, and How do I check them?
+
+Confidentiality
+In the context of information security, confidentiality refers to the principle of restricting access to or knowledge of certain pieces of information to certain individuals.There are several reasons for doing so. For example,
+
+a company might not want competitors to know its trade secrets, key personnel salaries, list of customers, products in development, or sales and marketing plans
+a law firm might want to preserve attorney-client privilege
+a healthcare organization may want to secure ePHI and comply with HIPAA / HITECH requirements
+trading partners might want to keep transaction details between themselves
+and so on.
+Unfortunately, when two parties exchange information over a network, especially one as vulnerable as the Internet, the confidentiality of that information will always be at risk. If they want, attackers can steal secret information by either carrying out a man-in-the-middle attack to eavesdrop on a transmission or hack directly into a server. It is therefore imperative to establish countermeasures that can mitigate unauthorized access and disclosures. We'll talk about possible countermeasures later in this article.
+
+Integrity
+The second member of the CIA triad, integrity (which means data integrity) pertains to the principle of preventing data from being tampered. Data integrity is particularly crucial in business transactions where unauthorized alterations to data (whether intentional or accidental) can lead to disputes, report misstatements, and (in the case of fraudulent alterations) financial losses.
+
+Like confidentiality, integrity can likewise be compromised during data transfers through either man-in-the-middle attacks (where attackers can intercept the data, make changes, and then forward the altered data to the intended recipient) or through a direct hack on the server.
+
+Availability
+Ok. Let's say you're able to preserve the confidentiality and integrity of your data at all times. But what if there are times when you need it and the data becomes inaccessible? That can be a problem, right? In the case of file transfers, data access problems can be due to a variety of reasons. Power interruptions, network disruptions, server failures, missing files, DDoS attacks, and natural disasters are just some of the many unfortunate events that can render data inaccessible.
+
+Availability issues can be a serious problem, especially if they involve business-critical data. More so if the data is part of a supply chain, where several organizations or business units can suffer.
+
+
+MD5, SHA-1, and SHA-256 are all different hash functions. Software creators often take a file download—like a Linux .iso file, or even a Windows .exe file—and run it through a hash function. They then offer an official list of the hashes on their websites.
+

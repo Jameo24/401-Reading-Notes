@@ -1,0 +1,26 @@
+# Security and Risk Management
+
+Risk management involves comprehensive understanding, analysis and mitigation of risk to help organizations achieve their information security objective. Risk is fundamentally inherent in every aspect of information security decisions and thus risk management concepts help aid each decision to be effective in nature.
+Security and risk management is the first domain of eight domains covered on the CISSP certification exam. The exam was last updated in May 2021, and the updated exam subdomains include:
+
+Understand, adhere to and promote professional ethics
+Understand and apply security concepts
+Evaluate and apply security governance principles
+Determine compliance and other requirements
+Understand legal and regulatory issues that pertain to information security in a holistic context
+Understand requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards)
+Develop, document, and implement security policy, standards, procedures and guidelines
+Identify, analyze and prioritize Business Continuity (BC) requirements
+Contribute to and enforce personnel security policies and procedures
+Understand and apply risk management concepts
+Understand and apply threat modeling concepts and methodologies
+Apply Supply Chain Risk Management (SCRM) concepts
+Establish and maintain a security awareness, education and training program
+
+Then, the strategic goals may refer to having all domains centrally administered and implementing VPNs and RADIUS servers to provide a highly secure environment that provides a good amount of assurance to the management and employees.
+
+A security model has different layers, but it also has different types of goals to accomplish in different time frames.
+
+Operational goals: Daily goals, or operational goals, focus on productivity and task-oriented activities to ensure the company’s functionality in a smooth and predictable manner. Operational goals may include patching computers as needed, supporting users, updating anti-virus signatures, and maintaining the overall network on a daily basis.
+Tactical goals: Corresponding mid-term goals, or tactical goals, could involve moving computers into domains, installing firewalls and segregating the network by creating a demilitarized zone. Other tactical goals could include integrating all workstations and resources into one domain so more central control can be achieved.
+Strategic goals: A long-term goal, or strategic goal, may involve moving all the branches from dedicated communication lines to frame relay, implementing IPSec virtual private networks (VPNs) for all remote users instead of dial-up entry, and integrating wireless technology with the comprehensive security solutions and controls existing within the environment.
