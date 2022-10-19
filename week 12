@@ -1,0 +1,28 @@
+# What is  SOC?
+
+A security operations center (SOC) acts as the hub for an organization’s security operations. Also called an information security operations center (ISOC), a SOC is a centralized location where information security professionals use technologies to build and maintain the security architecture that monitors, detects, analyzes and responds to cybersecurity incidents, typically around the clock.
+A SOC must not only identify threats, but analyze them, investigate the source, report on any vulnerabilities discovered and plan how to prevent similar occurrences in the future. In other words, they’re dealing with security problems in real time, while continually seeking ways to improve the organization’s security posture.
+
+On a larger scale, there are also Global Security Operations Centers (GSOC), coordinating security offices that literally span the globe. If you have offices around the world, a GSOC (rather than establishing a SOC for each international location) can:
+
+Prevent each location from repeating tasks and functions
+Reduce overhead
+Ensure that the security team has a big-picture view of what’s happening across the entire organization
+The SOC leads real-time incident response and drives ongoing security improvements to protect the organization from cyber threats. By using a complex combination of the right tools and the right people to monitor and manage the entire network, a high-functioning SOC will:
+
+Provide proactive, around-the-clock surveillance of networks, hardware and software for threat and breach detection, and incident response.
+Offer expertise on all the tools your organization uses, including third-party vendors, to ensure they can easily resolve security issues.
+Install, update and troubleshoot application software.
+Monitor and manage firewall and intrusion prevention systems.
+Scan and remediate antivirus, malware and ransomware solutions.
+Manage email, voice and video traffic.
+Help with patch management and whitelisting.
+Provide deep analysis of security log data from various sources.
+Analyze, investigate and document security trends.
+Investigate security breaches to understand the root cause of attacks and prevent future breaches.
+Enforce security policies and procedures.
+Supply backup, storage and recovery.
+However, the SOC does more than just handle problems as they arise. What does a SOC do when it’s not detecting threats?
+
+The SOC is tasked with finding weaknesses — both outside and within the organization — through ongoing software and hardware vulnerability analysis, as well as actively gathering threat intelligence on known risks. So even when there are seemingly no active threats, SOC staff are proactively looking at ways to improve security. Vulnerability assessment includes actively trying to hack their own system to find weaknesses, known as penetration testing. Additionally, a core role of SOC personnel is security analysis: ensuring that the organization is using the correct security tools optimally and assessing what is and isn’t working.
+

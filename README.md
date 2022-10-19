@@ -9,3 +9,4 @@
 [Class 401 week 8 Reading Notes](week 8)
 [Class 401 week 9 Reading Notes](week 9)
 [Class 401 week 11 Reading Notes](week 11)
+[Class 401 week 11 Reading Notes](week 12)
