@@ -13,4 +13,5 @@
 [Class 401 week 13 Reading Notes](week13)
 [Class 401 week 14 Reading Notes](week14)
 [Class 401 week 16 Reading Notes](week16)
-[Class 401 week 16 Reading Notes](week17)
+[Class 401 week 17 Reading Notes](week17)
+[Class 401 week 18 Reading Notes](week18)

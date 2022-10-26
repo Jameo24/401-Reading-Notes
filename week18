@@ -1,0 +1,7 @@
+# Introduction to AWS CloudWatch
+
+Amazon CloudWatch is a service used for real-time monitoring AWS resources like EC2 instances, EBS, RDS, load balancer, lambda, Cognito, S3, etc. and also can use for monitoring on-prem resources. CloudWatch is a useful service to collect & track matrices, monitor log files, set alarms. It automatically provides metrics for CPU utilization, latency and request count. Additionally, custom CloudWatch metrics can also be monitored such as memory usage, error rates, etc. in a detailed manner. It’s useful service for cronjob and automation purposes.
+
+CloudWatch Events allows users to consume a near real-time stream of events like changes to their AWS environment takes place. These event changes can afterword trigger notification services like SNS, SMS, etc. or can trigger other AWS services like Lambda, SSM, Step function. CloudWatch Events can monitor actions like an AWS service (Eg: EC2 instance) being launched or stopped/ terminated and detect when an auto-scale happens.
+
+AWS provides CloudWatch agent that can be configured on the EC2 instances to send Custom Metrics to CloudWatch. That agent supports multiple operating systems like Amazon Linux, CentOS, Red hat, Windows Server (2008 onwards), Debian, Ubuntu OS. The help of IAM role access, the agent to collect live metrics from the server and send these custom & detailed data to CloudWatch Dashboard for better monitoring experience.
