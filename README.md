@@ -15,3 +15,4 @@
 [Class 401 week 16 Reading Notes](week16)
 [Class 401 week 17 Reading Notes](week17)
 [Class 401 week 18 Reading Notes](week18)
+[Class 401 week 19 Reading Notes](week19)
