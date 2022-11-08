@@ -1,0 +1,22 @@
+#Cyber Threat Analyst: Key Job Skills and Expected Salary
+#Tracking, Detecting, and Thwarting PowerShell-based Malware and Attacks
+
+Cyber threat analysts apply analytical skills and technical expertise to 
+defend against threats posed by cyber actors. They keep a constant tab on 
+threats and consistently monitor networks to identify any security breaches
+or possible vulnerabilities.
+
+Cyber threat or Information security analysts perform the following duties:
+Continually monitor the network of an enterprise for any security breach and investigate in case any violation occurs
+Install and use software like data encryption programs and firewalls to protect sensitive information
+Perform penetration testing by simulating attacks to identify any vulnerabilities in the systems before they can be exploited
+Develop reports documenting security breaches that have occurred and the extent of damage caused by those breaches
+Craft security standards and best practices for a company
+Keep up to date with the latest IT security trends
+Work with the security team to develop digital security policies and implement them
+Provide recommendations on security enhancements to senior management
+Make decisions and evaluate the best tools for any given security issue
+Monitoring and audit of system and processes like identity and access management which may involve methodologies like zero trust security
+Help in delivering cybersecurity awareness training
+
+PowerShell is a scripting language and a command-line shell based on .NET classes that helps system administrators automate tasks in managing operating systems. It is an update from Microsoft’s command line interpreter (CLI) from the days of MS-DOS, and has been built-in to Windows since the release of Windows XP SP2. While its predecessor, COMMAND.COM, had numerous capabilities and supported a limited scripting language, it could not manage all parts of an operating system (OS), and some tasks still required interaction with the Graphical User Interface (GUI). PowerShell enables faster and improved access to the underlying operating system (such as the registry and certificate store), allowing users and administrators to manage more functions of a system locally as well as remotely. It is also open-sourced and includes a fully developed scripting language. Beyond Windows, PowerShell also supports other platforms such as Linux and macOS.

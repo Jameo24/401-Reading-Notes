@@ -16,3 +16,4 @@
 [Class 401 week 17 Reading Notes](week17)
 [Class 401 week 18 Reading Notes](week18)
 [Class 401 week 19 Reading Notes](week19)
+[Class 401 week 26 Reading Notes](week26)
