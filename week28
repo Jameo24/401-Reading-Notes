@@ -1,0 +1,17 @@
+#Log Tampering 101
+
+There is a four-step process to covering your tracks by tamping with logs that hackers know like the back of their hand. These steps are:
+
+Disable auditing
+Clearing logs
+Modifying logs
+Erasing command history
+
+Disable auditing is a smart first step for hackers because if logging is turned off, there will be no trail of evidence. 
+
+One way is to use the clearlogs.exe file, which can be found here. 
+Once access to the target Windows system is obtained, the file needs to be installed and then run to clear the security logs. 
+To run the file, enter the following into a command line prompt:
+
+clearlogs.exe -sec
+
