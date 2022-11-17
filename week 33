@@ -1,0 +1,6 @@
+# What Is Threat Hunting and Why Is It so Important? – Video Blog
+
+Threat hunting is an active/proactive activity, meaning that this is something we actively do. We don’t wait until something else occurs before this 
+kicks off. So if you think you’re doing threat hunting and your threat hunting step number one is when an alert goes off in our SIEM… we do something else. No, that’s not threat hunting. 
+That’s a responsive. We’re reacting to something occurred that’s maybe more along the lines of forensics.
+
