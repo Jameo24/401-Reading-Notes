@@ -1,0 +1,6 @@
+# Understanding SQL Injection, Identification and Prevention
+
+Standardized query language (SQL) is, in one form or another, still the dominant method of inserting, filtering and retrieving information 
+from a database. Loads of SQL queries will be coursing through your web applications on almost every page load – regardless of if it’s a 
+tiny toy website with a tiny SQLite file, or a popular ecommerce site with millions of visits per hour requiring a massive cluster of 
+database servers from Enterprise Database Vendor of choice.
