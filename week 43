@@ -1,0 +1,23 @@
+# What is a sniffing attack and how can you defend it?
+
+This technology can be used to test the telephone lines and determine the quality of the call but 
+criminals used it for their own illegitimate purpose. In the world of internet, sniffing can be 
+performed using an application, hardware devices at both the network and host level. Any network 
+packet having information in plain text can be intercepted and read by the attackers. This information
+can be usernames, passwords, secret codes, banking details or any information which is of value to the attacker. 
+This attack is just the technical equivalent of a physical spy.
+
+Sniffing motives:    
+
+Getting username an passwords
+
+Stealing bank related/transaction related information
+
+Spying on email and chat messages
+
+Identity theft
+
+There are two types of sniffing- active and passive. As the name suggests, 
+active involves some activity or interaction by the attacker in order to gain information. 
+In passive the attacker is just hiding dormant and getting the information. Let’s discuss passive sniffing first.
+
